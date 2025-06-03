@@ -1,0 +1,63 @@
+@media (max-width: 480px) {
+
+ .hero-section-menu{
+    display: inline;
+    position:unset;
+    top: 0;
+    /* padding: 0 100px; */
+}
+.hero-section-menu-heading{
+    display: none;
+    
+}
+.hero-section-menu-navbar{
+    width: 100%;
+    
+}
+.hero-section-menu-navbar a{
+    float: left;
+}
+.hero-section-main{
+    display: inline;
+}
+.hero-section-main-content{
+    width: 100%;
+}
+.hero-section-main-content h1{
+    font-size: 2rem;
+}
+.hero-section-main-content p{
+    font-size: 20px;
+    margin-right: 30px;
+}
+.hero-section-main-content button{
+    display: none;
+}
+.hero-section-main-image{
+    width: 100%;
+    
+}
+.hero-section-main-image img{
+    margin-left: 70px;
+    margin-top: 30px;
+   
+}
+.main-section-content{
+    margin-top: 500px;
+}
+.main-section-content-skill{
+    display: inline;
+}
+.main-section-content-skill > div{
+  font-size: 25px;
+}
+.footer-section-content{
+    display: inline;
+}
+.footer-section-content-contact{
+    width: 100%;
+}
+.footer-section-content-contact > p{
+    margin-right: 30px;
+}
+}
