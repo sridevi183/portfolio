@@ -1,9 +1,4 @@
 @import url('https://fonts.google.com/share?selection.family=Zain:ital,wght@0,200;0,300;0,400;0,700;0,800;0,900;1,300;1,400');
-:root{
-    --lightbrown : #9c8371;
-    --white : #ffffff;
-    --black : hsl(0, 0%, 0%);
-}
 
 *{
     font-family: "Zain", 'Times New Roman', Times, serif;
@@ -30,11 +25,10 @@ body{
     justify-content: space-between;
     position: sticky;
     top: 0;
-    /* padding: 0 100px; */
+    
 }
 .hero-section-menu-heading{
     width: 50%;
-    /* background-color: aquamarine; */
     margin-left: 30px;
     font-size: 12px;
 }
@@ -62,8 +56,6 @@ body{
 .hero-section-main-content{
     width: 80%;
     margin-top: 100px;
-    /* background-color: aqua; */
-    
 }
 .hero-section-main-content h1{
     font-size: 3rem;
@@ -87,11 +79,10 @@ body{
 }
 .hero-section-main-content button:hover{
     background-color: skyblue;
+     cursor: pointer;
 }
 .hero-section-main-image{
     width: 50%;
-    /* background-color: blue; */
-
 }
 .hero-section-main-image img{
     border-radius: 50%;
@@ -114,7 +105,6 @@ body{
   margin: 10px;
   text-align: center;
   line-height: 75px;
-  
   font-size: 30px;
 }
 .skill >img{
