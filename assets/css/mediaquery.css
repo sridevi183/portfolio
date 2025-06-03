@@ -15,7 +15,8 @@
 }
 .hero-section-menu-navbar a{
     float: left;
-    padding: 6px;
+    padding: 4px;
+    font-size: 10px;
 }
 .hero-section-main{
     display: inline;
