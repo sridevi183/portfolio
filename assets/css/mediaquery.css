@@ -28,14 +28,16 @@
     font-size: 2rem;
 }
 .hero-section-main-content p{
-    font-size: 20px;
+    font-size: 19px;
     margin-right: 30px;
 }
 .hero-section-main-content button{
     display: none;
 }
  .hero-section-main-content-resume button{
-    display: inline;
+    display: block;
+    padding: 4px;
+    font-size: 14px; 
 }
 .hero-section-main-image{
     width: 100%;
