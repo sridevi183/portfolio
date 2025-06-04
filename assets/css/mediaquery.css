@@ -15,8 +15,8 @@
 }
 .hero-section-menu-navbar a{
     float: left;
-    padding: 5px;
-    font-size: 15px;
+    padding: 11px;
+    
 }
 .hero-section-main{
     display: inline;
@@ -34,10 +34,11 @@
 .hero-section-main-content button{
     display: none;
 }
- .hero-section-main-content-resume button{
+.hero-section-main-content-resume button{
     display: block;
     padding: 4px;
     font-size: 14px; 
+    
 }
 .hero-section-main-image{
     width: 100%;
@@ -49,7 +50,7 @@
    
 }
 .main-section-content{
-    margin-top: 450px;
+    margin-top: 500px;
 }
 .main-section-content-skill{
     display: inline;
