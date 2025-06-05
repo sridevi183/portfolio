@@ -1,7 +1,7 @@
 @media (max-width: 480px) {
 
  .hero-section-menu{
-    display: inline;
+    display: block;
     position: unset;
     
 }
@@ -11,15 +11,17 @@
 }
 .hero-section-menu-navbar{
     width: 100%;
+    padding-right: 0;
 
 }
 .hero-section-menu-navbar a{
-   float: left;
-   padding: 7px;
-   font-style: 14px;
+    float: left;
+    padding: 9px;
+    font-size: 15px;
+    
 }
 .hero-section-main{
-    display: inline;
+    display: block;
 }
 .hero-section-main-content{
     width: 100%;
@@ -53,13 +55,13 @@
     margin-top: 500px;
 }
 .main-section-content-skill{
-    display: inline;
+    display: block;
 }
 .main-section-content-skill > div{
   font-size: 25px;
 }
 .footer-section-content{
-    display: inline;
+    display: block;
 }
 .footer-section-content-contact{
     width: 100%;
