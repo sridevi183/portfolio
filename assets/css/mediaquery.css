@@ -17,7 +17,7 @@
 .hero-section-menu-navbar a{
     float: left;
     padding: 9px;
-    font-size: 15px;
+    font-size: 18px;
     
 }
 .hero-section-main{
@@ -30,7 +30,7 @@
     font-size: 2rem;
 }
 .hero-section-main-content p{
-    font-size: 19px;
+    font-size: 23px;
     margin-right: 30px;
 }
 .hero-section-main-content button{
@@ -39,7 +39,7 @@
 .hero-section-main-content-resume button{
     display: block;
     padding: 4px;
-    font-size: 14px; 
+    font-size: 20px; 
     
 }
 .hero-section-main-image{
@@ -52,7 +52,7 @@
    
 }
 .main-section-content{
-    margin-top: 500px;
+    margin-top: 650px;
 }
 .main-section-content-skill{
     display: block;
